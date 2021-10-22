@@ -1,5 +1,10 @@
-Here you can say lots of fun things about your site.
+A place for me to collect my thoughts and, hopefully, offer some encouragement to fellow "bootcampers."
 
-Maybe say a some things about yourself.
+I've done the whole "have an internet following" thing, and I don't like it.
 
-Or maybe what you plan to blog about.
+Life is too short for that.
+
+About me:
+=========
+
+32, married, father of two, Kansas City, fan of tokusatsu and theology (especially when combined).
