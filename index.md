@@ -1,6 +1,8 @@
 About me:
 =========
 
+<img src="https://github.com/dlmarshall3/dlmarshall3.github.io/blob/main/headshot.PNG?raw=true" width="250">
+
 Hi, I'm David!
 
 As you can probably guess, I am a "software engineer." Well, I **will be** soon. Currently slinging cars and trucks, even though the market has gone in the 🚽. I used to make websites as a kid, taught myself HTML with one of those "...for Dummies" books, but never stuck with it. Figured now is a great time, and I've been enjoying my time going through Springboard's bootcamp.
