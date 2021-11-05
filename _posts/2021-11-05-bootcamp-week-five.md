@@ -3,7 +3,7 @@ Bootcamp: week five
 
 It’s 9:30am, I’ve had one cup of coffee, and I already feel like I could pass out at any minute.
 
-<img src="https://github.com/dlmarshall3/dlmarshall3.github.io/blob/main/img/tired.jpg">
+![tired meme](https://github.com/dlmarshall3/dlmarshall3.github.io/blob/main/img/tired.jpg)
 
 In all seriousness, the thought of doing this bootcamp for another eight months is taxing. Don’t get me wrong—I’ve loved the experience so far. I am a firm believer in not having regrets in life, but there **are** moments where I really wish I would have either a) stuck with coding when I was a kid, or b) committed to doing a bootcamp back in 2019 when I was initially motivated to get back into coding. At that time, however, I was under the impression you had to get a degree, so having just recently completed my Master’s, the thought of more schooling was…
 
@@ -21,6 +21,6 @@ However, what changed for me is when my mentor told me to write out what I want 
 
 Mission accomplished.
 
-<img src="https://github.com/dlmarshall3/dlmarshall3.github.io/blob/main/img/pokenect3.png">
+![pokenectfour](https://github.com/dlmarshall3/dlmarshall3.github.io/blob/main/img/pokenect3.png)
 
 (If you'd like to play the game, you can click <a href="https://github.com/dlmarshall3/pokenect_four">here!</a>)
