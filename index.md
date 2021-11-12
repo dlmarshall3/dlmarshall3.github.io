@@ -1,7 +1,7 @@
 About me:
 =========
 
-<img src="https://i.ibb.co/vh8fqy7/henshin-coder-hi-res.jpg" width="250">
+<img src="https://i.ibb.co/vh8fqy7/henshin-coder-hi-res.jpg" width="375">
 
 Hi, I'm David!
 
