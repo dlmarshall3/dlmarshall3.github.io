@@ -23,6 +23,5 @@ As for what I'm learning? It doesn't feel like I've gone through much of the cur
 
 Here's to another week!
 
-<img src="https://i.ibb.co/1mFsHZT/giphy.png">
 <a href="https://dlmarshall3.github.io/giphy_party/">(Click here for deployment)</a>
 
