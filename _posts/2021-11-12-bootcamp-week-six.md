@@ -19,9 +19,9 @@ As for what I'm learning? It doesn't feel like I've gone through much of the cur
 
 **jQuery and Bootstrap**: I haven't finished the Bootstrap section yet, as I'm still trying to catch up after being sick. Going through that one video or so at a time when work is slower. As for jQuery? I understand the appeal _and_ the disdain. Well, maybe not the disdain; rather, the criticism. I love how clean and concise jQuery is, but I also can see why it was important before the major overhaul JavaScript has gone through.
 
-**AJAX and AXIOS**: Okay, this section has been a blast. There is a lot to understand, especially when it comes to looping through data from the APIs and such, but there is so much potential for creativity and artistry here. In fact, it inspired me to start working on a portfolio piece. I'm really trying to find things to work on outside of the curriculum so by the time I graduate, I have more than the capstones to put on my resume. I'm done with the GIPHY page (well, it's submitted, but I have plans to rework a few things), and now I'm working on the TV Maze project before starting on the Jeopardy assessment. Despite how extensive that one is, I am excited to the nth degree.
+**AJAX and AXIOS**: Okay, this section has been a blast. There is a lot to understand, especially when it comes to looping through data from the APIs and such, but there is so much potential for creativity and artistry here. In fact, it inspired me to start working on a portfolio piece. I'm really trying to find things to work on outside of the curriculum so by the time I graduate, I have more than the capstones to put on my resume. I'm done with the GIPHY page** <a href="https://dlmarshall3.github.io/giphy_party/">(click here for deployment)</a> , and now I'm working on the TV Maze project before starting on the Jeopardy assessment. Despite how extensive that one is, I am excited to the nth degree.
 
 Here's to another week!
 
-<a href="https://dlmarshall3.github.io/giphy_party/">(Click here for deployment)</a>
+** Well, it's submitted, but I have plans to rework a few things.
 
