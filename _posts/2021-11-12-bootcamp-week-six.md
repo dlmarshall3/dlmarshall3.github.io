@@ -5,9 +5,9 @@ Bootcamp: week six
 
 So much in life is determined by our views on reality and truth. This is something my mentor and I talked about during our call this week, that even though it **feels** like I've been doing this bootcamp for months and I should be further along, I'm really only six weeks into the course. Not only this, but when I see other people in my cohort much further along, it's easy to be tempted to get discouraged. Yet if I take the time to remember some key points, I'm quickly reoriented: 
 
-1) some people have more time to do this than I do!
-2) some people have a lot more experience than I do!
-3) some people are just going to be more adept at learning than I am!
+1) some people have more time to do this than I do!<br>
+2) some people have a lot more experience than I do!<br>
+3) some people are just going to be more adept at learning than I am!<br>
 
 None of this is to disparage myself. Rather, it's simply recognizing what the truth of the matter is and being okay with that! I am where I am for a reason, and there is no value in continually comparing myself to others. (Easier said than done, of course.)
 
