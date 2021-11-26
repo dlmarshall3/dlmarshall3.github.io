@@ -50,7 +50,7 @@ For people who know me intimately, my [disdain for social media](https://dlmarsh
   
 </ul>
 
-Maybe we’ve reached a point where I start imagining dialogue again: “That sounds great and all, David, but first: we’re not talking about software engineering jobs. And plus: I’m not good at this networking thing, _especially_ in person.” Which is fair! I get that. I’m one of those rare introverts that knows how to turn up the heat, so to speak, when it’s necessary, but otherwise? I’m happy to be alone.
+Maybe we’ve reached a point where I start imagining dialogue again: “That sounds great and all, David, but first: we’re talking about software engineering jobs, not sales. And plus: I’m not good at this networking thing, _especially_ in person.” Which is fair! I get that. I’m one of those rare introverts that knows how to turn up the heat, so to speak, when it’s necessary, but otherwise? I’m happy to be alone.
 
 However, I was talking to my wife about referrals this week, and I was reminded one of her best nannying jobs came by way of a referral. Her friend wasn’t able to work for a family anymore, so a few weeks before we got married, my wife took over for her friend. It was a fairly seamless process! Then my wife clued me in on something: _every single job she’s ever had came by way of a referral._ It was always a friend letting her know about a job opening or, if she was interested, having that connection to get in. I bring this up, because my wife is the opposite of me: she is the introvert in the relationship.
 
