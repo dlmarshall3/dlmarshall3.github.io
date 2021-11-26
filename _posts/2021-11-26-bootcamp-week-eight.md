@@ -56,7 +56,7 @@ However, I was talking to my wife about referrals this week, and I was reminded 
 
 I’m not saying LinkedIn can’t help you land a job. I’m not saying referrals are the only ways to get a job. But I really do think when you see senior engineers talk about their experiences, how they see, time and time again, the success that comes from talking to our friends and colleagues, the ones who know us and can vouch for us, then maybe it’s worth investing our time into this approach instead of, again, the “spray and pray” method. While I recognize I am, again, **not employed as an engineer therefore my opinion is clearly biased in that regard**, it breaks my heart to see the “I’ve submitted 700-1000 applications and still don’t have a job” posts almost every day, and I wish I could sit down with these people and figure out a game plan to change things up a bit.
 
-My prayer is this post might help someone take that first step.
+My prayer is this post might help someone take that first step. And I'm here to walk through that with you, if you'd like.
 
 **Soli deo gloria.**
 
